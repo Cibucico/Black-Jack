@@ -13,7 +13,6 @@ Welcome to the **Blackjack Project**, a simple implementation of the popular car
 ## Requirements
 
 - Python 3.x
-- `replit` module (for clearing the console)
 - An ASCII art library for the game logo
 
 ## How to Play
