@@ -59,7 +59,7 @@ Feel free to fork this repository, submit issues, or create pull requests to imp
 
 ---
 
-**Contact**
+**Creator**
 
 - **Sibusiso Skhosana**
 
